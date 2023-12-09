@@ -1,0 +1,42 @@
+C:\Учеба\Работа с сетью\Homework_1\bin\Debug\net8.0\Homework_1.exe
+C:\Учеба\Работа с сетью\Homework_1\bin\Debug\net8.0\Homework_1.deps.json
+C:\Учеба\Работа с сетью\Homework_1\bin\Debug\net8.0\Homework_1.runtimeconfig.json
+C:\Учеба\Работа с сетью\Homework_1\bin\Debug\net8.0\Homework_1.dll
+C:\Учеба\Работа с сетью\Homework_1\bin\Debug\net8.0\Homework_1.pdb
+C:\Учеба\Работа с сетью\Homework_1\obj\Debug\net8.0\Homework_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\Работа с сетью\Homework_1\obj\Debug\net8.0\Homework_1.AssemblyInfoInputs.cache
+C:\Учеба\Работа с сетью\Homework_1\obj\Debug\net8.0\Homework_1.AssemblyInfo.cs
+C:\Учеба\Работа с сетью\Homework_1\obj\Debug\net8.0\Homework_1.csproj.CoreCompileInputs.cache
+C:\Учеба\Работа с сетью\Homework_1\obj\Debug\net8.0\Homework_1.dll
+C:\Учеба\Работа с сетью\Homework_1\obj\Debug\net8.0\refint\Homework_1.dll
+C:\Учеба\Работа с сетью\Homework_1\obj\Debug\net8.0\Homework_1.pdb
+C:\Учеба\Работа с сетью\Homework_1\obj\Debug\net8.0\Homework_1.genruntimeconfig.cache
+C:\Учеба\Работа с сетью\Homework_1\obj\Debug\net8.0\ref\Homework_1.dll
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\bin\Debug\net8.0\Homework_1.exe
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\bin\Debug\net8.0\Homework_1.deps.json
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\bin\Debug\net8.0\Homework_1.runtimeconfig.json
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\bin\Debug\net8.0\Homework_1.dll
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\bin\Debug\net8.0\Homework_1.pdb
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.AssemblyInfoInputs.cache
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.AssemblyInfo.cs
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.csproj.CoreCompileInputs.cache
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.dll
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\obj\Debug\net8.0\refint\Homework_1.dll
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.pdb
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.genruntimeconfig.cache
+C:\Учеба\Работа с сетью\Homework_1\ServerCode\obj\Debug\net8.0\ref\Homework_1.dll
+C:\Study_GB\Networking\Homework_1\ServerCode\bin\Debug\net8.0\Homework_1.exe
+C:\Study_GB\Networking\Homework_1\ServerCode\bin\Debug\net8.0\Homework_1.deps.json
+C:\Study_GB\Networking\Homework_1\ServerCode\bin\Debug\net8.0\Homework_1.runtimeconfig.json
+C:\Study_GB\Networking\Homework_1\ServerCode\bin\Debug\net8.0\Homework_1.dll
+C:\Study_GB\Networking\Homework_1\ServerCode\bin\Debug\net8.0\Homework_1.pdb
+C:\Study_GB\Networking\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study_GB\Networking\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.AssemblyInfoInputs.cache
+C:\Study_GB\Networking\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.AssemblyInfo.cs
+C:\Study_GB\Networking\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.csproj.CoreCompileInputs.cache
+C:\Study_GB\Networking\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.dll
+C:\Study_GB\Networking\Homework_1\ServerCode\obj\Debug\net8.0\refint\Homework_1.dll
+C:\Study_GB\Networking\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.pdb
+C:\Study_GB\Networking\Homework_1\ServerCode\obj\Debug\net8.0\Homework_1.genruntimeconfig.cache
+C:\Study_GB\Networking\Homework_1\ServerCode\obj\Debug\net8.0\ref\Homework_1.dll

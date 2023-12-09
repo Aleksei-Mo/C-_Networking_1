@@ -1,0 +1,25 @@
+C:\Учеба\Работа с сетью\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\Работа с сетью\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.AssemblyInfoInputs.cache
+C:\Учеба\Работа с сетью\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.AssemblyInfo.cs
+C:\Учеба\Работа с сетью\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.csproj.CoreCompileInputs.cache
+C:\Study_GB\Networking\Homework_1\ClientCode\bin\Debug\net8.0\Homework_1.deps.json
+C:\Study_GB\Networking\Homework_1\ClientCode\bin\Debug\net8.0\Homework_1.runtimeconfig.json
+C:\Study_GB\Networking\Homework_1\ClientCode\bin\Debug\net8.0\Homework_1.exe
+C:\Study_GB\Networking\Homework_1\ClientCode\bin\Debug\net8.0\ClientCode.exe
+C:\Study_GB\Networking\Homework_1\ClientCode\bin\Debug\net8.0\ClientCode.deps.json
+C:\Study_GB\Networking\Homework_1\ClientCode\bin\Debug\net8.0\ClientCode.runtimeconfig.json
+C:\Study_GB\Networking\Homework_1\ClientCode\bin\Debug\net8.0\ClientCode.dll
+C:\Study_GB\Networking\Homework_1\ClientCode\bin\Debug\net8.0\ClientCode.pdb
+C:\Study_GB\Networking\Homework_1\ClientCode\bin\Debug\net8.0\Homework_1.dll
+C:\Study_GB\Networking\Homework_1\ClientCode\bin\Debug\net8.0\Homework_1.pdb
+C:\Study_GB\Networking\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.csproj.AssemblyReference.cache
+C:\Study_GB\Networking\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study_GB\Networking\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.AssemblyInfoInputs.cache
+C:\Study_GB\Networking\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.AssemblyInfo.cs
+C:\Study_GB\Networking\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.csproj.CoreCompileInputs.cache
+C:\Study_GB\Networking\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.csproj.CopyComplete
+C:\Study_GB\Networking\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.dll
+C:\Study_GB\Networking\Homework_1\ClientCode\obj\Debug\net8.0\refint\ClientCode.dll
+C:\Study_GB\Networking\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.pdb
+C:\Study_GB\Networking\Homework_1\ClientCode\obj\Debug\net8.0\ClientCode.genruntimeconfig.cache
+C:\Study_GB\Networking\Homework_1\ClientCode\obj\Debug\net8.0\ref\ClientCode.dll
