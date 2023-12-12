@@ -1,6 +1,5 @@
 ﻿using System.Net;
 using System.Net.Sockets;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Text.Json;
 
@@ -34,6 +33,11 @@ namespace ServerCode
                 Console.WriteLine($"Size of message is {buffer.Length}");
                 var messageText = Encoding.UTF8.GetString(buffer);
                 Message message = Message.DeserializeFromJson(messageText);
+                if (message.Text.Equals("exit", StringComparison.OrdinalIgnoreCase))
+                {
+                    Console.WriteLine("The Server has recieved the shutdown keyword 'Exit' from Client, chat session will be closed.");
+                    return;
+                }
                 message.Print();
                 ServerFeedbackToClient(buffer.Length);
             }
@@ -47,7 +51,7 @@ namespace ServerCode
             string json = JsonSerializer.Serialize(messageText);
             byte[] data = Encoding.UTF8.GetBytes(json);
             udpClient.Send(data, data.Length, iPEndPoint);
-            
+
         }
 
     }

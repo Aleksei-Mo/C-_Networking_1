@@ -22,20 +22,23 @@ namespace Client
             IPEndPoint iPEndPoint = new IPEndPoint(IPAddress.Parse(ip), 12345);
             while (true)
             {
-                string messageText;
+                string messageText = System.String.Empty;
                 do
                 {
                     //Console.Clear();
                     Console.WriteLine("Введите сообщение.");
                     messageText = Console.ReadLine();
-
                 }
                 while (string.IsNullOrEmpty(messageText));
                 Message message = new Message() { Text = messageText, NicknameFrom = From, NicknameTo = "Server", DateTime = DateTime.Now };
                 string json = message.SerializeMessageToJson();
                 byte[] data = Encoding.UTF8.GetBytes(json);
                 int messageSize = udpClient.Send(data, data.Length, iPEndPoint);
-
+                if (messageText.Equals("exit", StringComparison.OrdinalIgnoreCase))
+                {
+                    Console.WriteLine("The chat session will be closed.");
+                    return;
+                }
                 Console.WriteLine($"Client has sent the message with lenght {messageSize} to the Server! Waiting for the Server feedback.");
                 //Console.WriteLine($"The message {message.Text} has been sent successfuly!");
                 ServerFeedbackToClient(messageSize);
@@ -54,10 +57,10 @@ namespace Client
                 if (buffer == null) break;
                 var messageText = Encoding.UTF8.GetString(buffer);
                 int messageSize = int.Parse(JsonSerializer.Deserialize<String>(messageText));
-                if (msgSize==messageSize)
+                if (msgSize == messageSize)
                 {
-                   Console.WriteLine("The message has been recieved by Server successfully!");
-                   return; 
+                    Console.WriteLine("The message has been recieved by Server successfully!");
+                    return;
                 }
             }
         }

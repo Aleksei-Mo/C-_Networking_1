@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Study_GB\\Networking\\Homework_1\\ServerCode\\Homework_1.csproj": {}
+    "C:\\Study_GB\\Networking\\HW_1\\ServerCode\\Homework_1.csproj": {}
   },
   "projects": {
-    "C:\\Study_GB\\Networking\\Homework_1\\ServerCode\\Homework_1.csproj": {
+    "C:\\Study_GB\\Networking\\HW_1\\ServerCode\\Homework_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Study_GB\\Networking\\Homework_1\\ServerCode\\Homework_1.csproj",
+        "projectUniqueName": "C:\\Study_GB\\Networking\\HW_1\\ServerCode\\Homework_1.csproj",
         "projectName": "Homework_1",
-        "projectPath": "C:\\Study_GB\\Networking\\Homework_1\\ServerCode\\Homework_1.csproj",
+        "projectPath": "C:\\Study_GB\\Networking\\HW_1\\ServerCode\\Homework_1.csproj",
         "packagesPath": "F:\\Users\\Baster\\.nuget\\packages\\",
-        "outputPath": "C:\\Study_GB\\Networking\\Homework_1\\ServerCode\\obj\\",
+        "outputPath": "C:\\Study_GB\\Networking\\HW_1\\ServerCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
